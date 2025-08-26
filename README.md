@@ -1,2 +1,16 @@
-# Tik_Tak-X-O-Game
-A simple and fun Tic Tac Toe (X-O) game built with Flutter, supporting both Single Player (vs Computer) and Two Player mode. The game comes with a modern UI, turn indicator, and winning highlight system.
+# tictak_game
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
